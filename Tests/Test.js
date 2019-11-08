@@ -1,4 +1,4 @@
-const BasePage      = require("../Infra/BasePage");
+ const BasePage      = require("../Infra/BasePage");
 const ClientsPage   = require("../Pages/ClientsPage")
 
 class ClientsPageTest {
